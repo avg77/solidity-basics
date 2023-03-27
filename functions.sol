@@ -14,6 +14,7 @@ contract SimpleStorage
     }
 
     // 'view' and 'pure' keywords in functions:-
+    
     // -> function to call, show or retrieve the value that we give to 'int _Aviral' in the previous function
 
     function retrieve() public view returns(int)    //when we use view or pure keyword, gas is not applicable because we're just viewing a transaction already created on a blockchain and not making any changes to it
