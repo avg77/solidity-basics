@@ -7,4 +7,12 @@ contract HelloWorld
     {       
         return 'Hello World! This is my first simple Smart Contract';             
     } 
+
+    //Alternate method:-
+
+    string hello = "Hello World! This is my first simple Smart Contract";
+    function display() public view returns (string memory)
+    {
+        return hello;
+    }
 }
