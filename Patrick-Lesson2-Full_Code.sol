@@ -13,7 +13,7 @@ contract SimpleStorage {                                                        
         uint256 favoriteNumber;
         string name;
     }
-    // uint256[] public anArray;
+    // uint256[] public Array;
     People[] public people;                                                       //array
 
     mapping(string => uint256) public nameToFavoriteNumber;                       //mapping
@@ -22,7 +22,7 @@ contract SimpleStorage {                                                        
         favoriteNumber = _favoriteNumber;
     }
     
-    function retrieve() public view returns (uint256){                            //view function (gas not applicable)
+    function retrieve() public view returns (uint256){                            //view function 
         return favoriteNumber;
     }
 
