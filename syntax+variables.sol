@@ -13,3 +13,5 @@ contract SimpleStorage
    bytes32 avira = "87sdjbvusbujavs";
    string avir = "hello77";
 }
+
+https://www.cryptopolitan.com/how-can-web3-improve-higher-education/
