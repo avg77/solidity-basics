@@ -14,6 +14,8 @@ contract SimpleStorage
     }
 
     // 'view' and 'pure' keywords in functions:-
+    //pure - used when neither read or write has to be performed on a state variable
+    //view - used when you need to read on a state variable
     
     // -> function to call, show or retrieve the value that we give to 'int _Aviral' in the previous function
 
