@@ -3,6 +3,8 @@ pragma solidity ^0.8.7;
 
 contract SimpleStorage
 {
+    string avir = "hello77";                                         //string data type
+
     // using structs
 
      struct Avi
