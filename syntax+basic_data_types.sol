@@ -11,7 +11,7 @@ contract SimpleStorage
    bool Aviral = true;
    address avi = 0x51AC561F46E08B4341c0f910d71E580Cd6FAD8A1; //Metamask public address
    bytes32 avira = "87sdjbvusbujavs";
-   string avir = "hello77";
+   
 }
 
 https://www.cryptopolitan.com/how-can-web3-improve-higher-education/
