@@ -14,4 +14,4 @@ contract SimpleStorage
    
 }
 
-https://www.cryptopolitan.com/how-can-web3-improve-higher-education/
+
